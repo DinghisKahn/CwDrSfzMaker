@@ -1,0 +1,21 @@
+This utility simplifies the process of sampling drum synths for use with Cakewalk Drum Replacer.
+It digests a string of hits in a 24bit wave file and installs them to the Drum Replacer content locations
+in the correct format. 32 velocity levels are saved in the multisample. The source file should have 32 hits, 
+crescendoing, separated by exactly 2 seconds each. Included is a SONAR template.
+
+Steps:
+
+1. Open included Template: "DrumSamplerTemplate.cwt"
+2. Insert the drum instrument of your choice and choose the kit you'd like to sample
+3. Adjust the repeating MIDI note to play the kit piece that you want
+4. Export a 24bit 44.1kHz file
+
+(repeat if you want to randomize each hit with an alternative)
+
+5. Open the CwDrSfzMaker.exe utility
+6. Type in a name for your sample
+7. Specify a type
+8. Click "Browse..." and locate the file you exported in step 4
+9. Click "Make It"
+
+At this point, you can instantiate Drum Replacer, navigate to the "User" section in the sample list, and locate your new content.

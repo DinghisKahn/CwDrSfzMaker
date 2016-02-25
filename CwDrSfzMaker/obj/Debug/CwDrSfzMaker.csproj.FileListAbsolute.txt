@@ -1,0 +1,9 @@
+C:\Repositories\CwDrSfzMaker\CwDrSfzMaker\CwDrSfzMaker\bin\Debug\CwDrSfzMaker.exe.config
+C:\Repositories\CwDrSfzMaker\CwDrSfzMaker\CwDrSfzMaker\bin\Debug\CwDrSfzMaker.exe
+C:\Repositories\CwDrSfzMaker\CwDrSfzMaker\CwDrSfzMaker\bin\Debug\CwDrSfzMaker.pdb
+C:\Repositories\CwDrSfzMaker\CwDrSfzMaker\CwDrSfzMaker\obj\Debug\CwDrSfzMaker.csprojResolveAssemblyReference.cache
+C:\Repositories\CwDrSfzMaker\CwDrSfzMaker\CwDrSfzMaker\obj\Debug\CwDrSfzMaker.Form1.resources
+C:\Repositories\CwDrSfzMaker\CwDrSfzMaker\CwDrSfzMaker\obj\Debug\CwDrSfzMaker.Properties.Resources.resources
+C:\Repositories\CwDrSfzMaker\CwDrSfzMaker\CwDrSfzMaker\obj\Debug\CwDrSfzMaker.csproj.GenerateResource.Cache
+C:\Repositories\CwDrSfzMaker\CwDrSfzMaker\CwDrSfzMaker\obj\Debug\CwDrSfzMaker.exe
+C:\Repositories\CwDrSfzMaker\CwDrSfzMaker\CwDrSfzMaker\obj\Debug\CwDrSfzMaker.pdb
